@@ -2,7 +2,7 @@
 ## Skill Test: Design the Hero Section of a Tech Agency company website and code a responsive Web UI in React, Typescript and Tailwind 
 
 
-First, run the development server:
+Guide line
 
 ```bash
 npm run dev
